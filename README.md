@@ -1,3 +1,8 @@
+# basic command for project
+npm install cors mongoose express dotenv
+npm i axios
+npm install react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
